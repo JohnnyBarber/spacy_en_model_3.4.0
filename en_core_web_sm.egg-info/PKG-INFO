@@ -6,6 +6,7 @@ Home-page: https://explosion.ai
 Author: Explosion
 Author-email: contact@explosion.ai
 License: MIT
+Platform: UNKNOWN
 License-File: LICENSE
 License-File: LICENSES_SOURCES
 
@@ -56,3 +57,4 @@ English pipeline optimized for CPU. Components: tok2vec, tagger, parser, senter,
 | `ENTS_P` | 85.65 |
 | `ENTS_R` | 83.49 |
 | `ENTS_F` | 84.56 |
+
